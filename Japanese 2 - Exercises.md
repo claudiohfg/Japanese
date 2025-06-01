@@ -1,8 +1,3 @@
----
-
-
----
-
 <p>Below are <strong>10 exercises</strong> designed to help you practice forming and using the <strong>ない-form</strong> in Japanese. These exercises cover conjugation, creating negative sentences, and using the ない-form in various grammatical structures (e.g., negative requests, cause and effect, obligation). They are suitable for beginners to intermediate learners and are structured similarly to the て-form exercises for consistency. Each exercise includes instructions and, where applicable, sample answers to guide you.</p>
 <hr>
 <h3 id="exercise-1-conjugate-verbs-to-ない-form"><strong>Exercise 1: Conjugate Verbs to ない-Form</strong></h3>
