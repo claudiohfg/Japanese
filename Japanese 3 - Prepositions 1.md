@@ -1,8 +1,3 @@
----
-
-
----
-
 <p>Japanese does not have direct equivalents to English prepositions like “about,” “above,” “across,” etc., as it relies on <strong>postpositions</strong>, particles, and specific grammatical structures to convey spatial, temporal, and relational meanings. Instead of prepositions that come before a noun (as in English), Japanese uses <strong>postpositional particles</strong> (e.g., に, で, を, へ) or <strong>location nouns</strong> (e.g., 上 <em>ue</em>, 下 <em>shita</em>) that follow nouns, often combined with verbs to clarify context. Below, I’ll explain how Japanese expresses the concepts equivalent to the English prepositions you listed: <strong>about</strong>, <strong>above</strong>, <strong>across</strong>, <strong>after</strong>, <strong>along</strong>, <strong>among</strong>, <strong>around</strong>, <strong>at</strong>, <strong>before</strong>, <strong>behind</strong>, <strong>below</strong>, <strong>beside</strong>. For each, I’ll provide the closest Japanese structures, their usage, and examples, keeping the explanation clear and structured.</p>
 <hr>
 <h3 id="about"><strong>1. About</strong></h3>
