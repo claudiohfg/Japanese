@@ -1,8 +1,3 @@
----
-
-
----
-
 <h3 id="exercises-for-japanese-prepositions"><strong>10 Exercises for Japanese Prepositions</strong></h3>
 <h4 id="exercise-1-fill-in-the-blank-onto-over"><strong>Exercise 1: Fill in the Blank (Onto, Over)</strong></h4>
 <p><strong>Task</strong>: Fill in the blank with の上に (<em>no ue ni</em>), の上へ (<em>no ue e</em>), を越える (<em>o koeru</em>), or にわたって (<em>ni watatte</em>) for “onto” or “over.” Use casual language.</p>
