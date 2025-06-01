@@ -1,8 +1,3 @@
----
-
-
----
-
 <h3 id="exercises-for-japanese-prepositions"><strong>10 Exercises for Japanese Prepositions</strong></h3>
 <h4 id="exercise-1-fill-in-the-blank-besides-except"><strong>Exercise 1: Fill in the Blank (Besides, Except)</strong></h4>
 <p><strong>Task</strong>: Fill in the blank with ほかに (<em>hoka ni</em>), 以外 (<em>igai</em>), or を除いて (<em>o nozoite</em>) for “besides” or “except.” Use casual language unless specified.</p>
