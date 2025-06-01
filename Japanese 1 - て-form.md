@@ -1,8 +1,3 @@
----
-
-
----
-
 <p>The <strong>て-form</strong> (te-form) in Japanese is a versatile verb conjugation used for various grammatical purposes, such as connecting clauses, making requests, expressing ongoing actions, or indicating cause and effect. It’s one of the most essential forms in Japanese grammar, and mastering it is key to achieving fluency. Below, I’ll explain its formation, uses, and some nuances in a clear and structured way.</p>
 <h3 id="forming-the-て-form"><strong>1. Forming the て-Form</strong></h3>
 <p>The て-form is derived from the dictionary (plain) form of a verb, and the exact conjugation depends on the verb’s group (based on its ending). Japanese verbs are divided into three main groups: <strong>Group 1 (う-verbs)</strong>, <strong>Group 2 (る-verbs)</strong>, and <strong>Group 3 (irregular verbs)</strong>. Here’s how to form the て-form for each:</p>
