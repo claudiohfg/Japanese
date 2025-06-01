@@ -1,8 +1,3 @@
----
-
-
----
-
 <p>Below are <strong>10 exercises</strong> designed to help you practice forming and using the <strong>て-form</strong> in Japanese. These exercises cover conjugation, sentence creation, and various grammatical uses of the て-form (e.g., connecting actions, requests, ongoing actions). They are suitable for beginners to intermediate learners. Each exercise includes instructions and, where applicable, answers or examples to guide you.</p>
 <hr>
 <h3 id="exercise-1-conjugate-verbs-to-て-form"><strong>Exercise 1: Conjugate Verbs to て-Form</strong></h3>
