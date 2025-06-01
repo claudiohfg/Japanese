@@ -1,8 +1,3 @@
----
-
-
----
-
 <p>Japanese does not use prepositions like English but instead relies on <strong>postpositions</strong>, <strong>particles</strong>, and <strong>location nouns</strong> to express relationships such as location, time, or purpose. These are typically placed after the noun they modify and work in conjunction with verbs to clarify meaning. Below, I’ll explain how Japanese expresses the concepts equivalent to the English prepositions you listed: <strong>besides</strong>, <strong>between</strong>, <strong>by</strong>, <strong>during</strong>, <strong>except</strong>, <strong>for</strong>, <strong>from</strong>, <strong>in</strong>, <strong>into</strong>, <strong>near</strong>, <strong>of</strong>, and <strong>on</strong>. For each, I’ll provide the closest Japanese structures, their usage, and examples, maintaining a clear and structured explanation similar to the previous response.</p>
 <hr>
 <h3 id="besides"><strong>1. Besides</strong></h3>
