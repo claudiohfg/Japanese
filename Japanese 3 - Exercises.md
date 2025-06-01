@@ -1,8 +1,3 @@
----
-
-
----
-
 <p>Below are <strong>10 exercises</strong> designed to help you practice the Japanese equivalents of the English prepositions <strong>about</strong>, <strong>above</strong>, <strong>across</strong>, <strong>after</strong>, <strong>along</strong>, <strong>among</strong>, <strong>around</strong>, <strong>at</strong>, <strong>before</strong>, <strong>behind</strong>, <strong>below</strong>, and <strong>beside</strong>. These exercises focus on using the corresponding Japanese postpositions, location nouns, and particles (e.g., について, 上に, を渡る, 後で, etc.) in various contexts, including spatial, temporal, and abstract uses. They are suitable for beginners to intermediate learners and are structured similarly to the previous て-form and ない-form exercises for consistency. Each exercise includes instructions and sample answers to guide you.</p>
 <hr>
 <h3 id="exercise-1-fill-in-the-blank-topic-about"><strong>Exercise 1: Fill in the Blank (Topic: About)</strong></h3>
