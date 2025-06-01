@@ -1,8 +1,3 @@
----
-
-
----
-
 <p>The <strong>ない-form</strong> (nai-form) in Japanese is a verb conjugation used to express negation, meaning “not” or “don’t/doesn’t” in English. It’s a fundamental form in Japanese grammar, used in casual speech, as a base for other grammatical structures, and to create negative sentences. Below, I’ll explain how to form the ない-form, its uses, and some nuances, keeping the explanation clear and structured, similar to the previous response on the て-form.</p>
 <h3 id="forming-the-ない-form"><strong>1. Forming the ない-Form</strong></h3>
 <p>The ない-form is derived from the dictionary (plain) form of a verb, and the conjugation depends on the verb’s group: <strong>Group 1 (う-verbs)</strong>, <strong>Group 2 (る-verbs)</strong>, and <strong>Group 3 (irregular verbs)</strong>. Here’s how to form it for each group.</p>
