@@ -1,8 +1,3 @@
----
-
-
----
-
 <p>Japanese does not use prepositions in the same way as English. Instead, it employs <strong>postpositions</strong>, <strong>particles</strong>, and <strong>location nouns</strong> to express relationships such as location, time, direction, or accompaniment. These are placed after the noun they modify and often combine with specific verbs to clarify meaning. Below, I’ll explain how Japanese expresses the concepts equivalent to the English prepositions you listed: <strong>onto</strong>, <strong>over</strong>, <strong>since</strong>, <strong>through</strong>, <strong>throughout</strong>, <strong>to</strong>, <strong>toward</strong>, <strong>under</strong>, <strong>until</strong>, <strong>with</strong>, <strong>within</strong>, and <strong>without</strong>. For each, I’ll provide the closest Japanese structures, their usage, and examples, maintaining a clear and structured explanation consistent with previous responses.</p>
 <hr>
 <h3 id="onto"><strong>1. Onto</strong></h3>
